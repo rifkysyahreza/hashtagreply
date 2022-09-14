@@ -5,7 +5,7 @@ const fs = require("fs");
 
 const client = new Twitter({
   bearer_token:
-    "AAAAAAAAAAAAAAAAAAAAAAsbhAEAAAAAvleAQAFrmXYHBOE1eOYFVg1kv8U%3DR689qbEwtLTz4itNq9bdNrvWi6X9AZNbSOm0dk65z9Qz2kjccg",
+    "your_bearer_token_here",
 });
 
 async function main() {
