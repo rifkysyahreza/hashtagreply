@@ -1,5 +1,5 @@
 # hashtagreply
-Auto reply in tweet that has a specific keyword or hashtag
+Auto reply in tweet that has a specific keyword or hashtag (500 tweet maximum in one run)
 
 1. Create folder (ex: D:/hashtagreply)
 2. Open Windows CMD and point it to the folder (ex: D:/hashtagreply/)
@@ -16,4 +16,10 @@ package
 package-lock
 TweetComment.js
 TweetComment.txt
+```
+
+5. run the script
+
+```
+node index.js
 ```
