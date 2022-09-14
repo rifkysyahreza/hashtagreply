@@ -23,3 +23,11 @@ TweetComment.txt
 ```
 node index.js
 ```
+
+
+Common Error
+
+```
+undefined
+```
+this one usually because come after texting a reply, what you need to do is, change the button text in line 130 
